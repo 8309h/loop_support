@@ -1,0 +1,34 @@
+
+Question 2: Restricting billing
+
+Subject: Billing all week orders on Friday only
+
+Body:
+
+Hi,
+
+Thank you for considering Loop for your subscription management needs.
+We can certainly help you configure billing to occur on Fridays for all your customers. 
+Here's how you can set this up in Loop:
+
+1. Billing Configuration:
+   Navigate to the Loop admin panel and go to the Billing Settings.
+   Set the billing frequency to weekly and select Friday as the billing day. 
+   This ensures that all subscription orders are billed on Friday each week.
+
+2. Align Subscription Start Dates:
+   Ensure that all new subscriptions are aligned with the weekly billing cycle.
+   This can be configured during the initial setup or adjusted for existing subscribers to match the Friday billing schedule.
+
+3. Link Selling Plans:
+   Go to Loop > Selling Plans and ensure that the selling plans linked to your bundles or subscription products are set to align with the weekly billing cycle.
+
+4. Customer Notifications:
+   Configure customer notifications to inform your subscribers about the billing schedule.
+   This can help manage customer expectations and improve satisfaction.
+
+
+
+Best regards,
+Harshal Wagh
+
